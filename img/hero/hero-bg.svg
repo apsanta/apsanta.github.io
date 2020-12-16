@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="1153.664"
+   viewBox="0 0 1929.063 1153.664"
+   width="1929.063"
+   version="1.1"
+   id="svg962"
+   sodipodi:docname="hero-bg.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata968">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs966" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3440"
+     inkscape:window-height="1377"
+     id="namedview964"
+     showgrid="false"
+     inkscape:zoom="0.97739067"
+     inkscape:cx="1604.1073"
+     inkscape:cy="511.07461"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g960" />
+  <radialGradient
+     id="a"
+     cx=".477"
+     cy=".38"
+     gradientTransform="matrix(.69 -.723 .684 .652 -.187 .536)"
+     gradientUnits="objectBoundingBox"
+     r=".654">
+    <stop
+       offset="0"
+       stop-color="#538bec"
+       id="stop951" />
+    <stop
+       offset="1"
+       stop-color="#1058d6"
+       id="stop953" />
+  </radialGradient>
+  <g
+     transform="translate(-3748 -10336.911)"
+     id="g960">
+    <path
+       d="m 3748,10905.423 c 0,0 128.707,-95.8 140.2,113.564 11.493,209.364 157.173,-96.332 220.8,44.708 63.627,141.04 66.877,272.754 165.557,120.783 98.68,-151.971 44.621,127.2 300.993,104.117 2.366,-0.96 428.919,0.641 431.455,0 224.777,18.278 150.22,-258.861 272,-135.517 121.78,123.344 59.246,-302.757 191.066,-201.838 131.82,100.919 133.6981,-146.842 208.3961,-103.111 -2.2,2.082 -1.3991,-511.219 -1.3991,-511.219 H 3748 Z"
+       fill="url(#a)"
+       id="path958"
+       sodipodi:nodetypes="csssccsscccc" />
+  </g>
+</svg>
